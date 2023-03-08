@@ -1,0 +1,12 @@
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\bin\Debug\net6.0\GachaSimLibrary.deps.json
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\bin\Debug\net6.0\GachaSimLibrary.dll
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\bin\Debug\net6.0\GachaSimLibrary.pdb
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\GachaSimLibrary.csproj.AssemblyReference.cache
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\GachaSimLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\GachaSimLibrary.AssemblyInfoInputs.cache
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\GachaSimLibrary.AssemblyInfo.cs
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\GachaSimLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\GachaSimLibrary.dll
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\refint\GachaSimLibrary.dll
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\GachaSimLibrary.pdb
+C:\Users\fixte\Documents\JRBA\GachaSim\GachaSimLibrary\obj\Debug\net6.0\ref\GachaSimLibrary.dll
